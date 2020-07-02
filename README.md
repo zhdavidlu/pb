@@ -1,1 +1,1 @@
-Polar Bear
+Informal documentation
