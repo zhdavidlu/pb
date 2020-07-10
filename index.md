@@ -12,7 +12,7 @@ The chamber Pressure and Oxidizer/Fuel ratio (POF) static fire tests measured th
   
   <body>
     <video width="640" height="360" controls autoplay loop muted>
-      <source src="https://github.com/zhdavidlu/pb/blob/master/tm-1c_animation.mp4?raw=true" type=video/mp4>
+      <source src="https://github.com/zhdavidlu/pb/blob/master/tm-1c_animation.mp4" type="video/mp4">
     </video>
   </body>
  </html>
