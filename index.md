@@ -2,17 +2,12 @@
 layout: default
 ---
 
+### TM-1C
+
+TM-1C is the third iteration of the CSSI's TM-1 series of hybrid rocket motors. This iteration aims to achieve higher efficiency by optimizing the oxidizer/fuel (O/F) ratio.  
+Design Process:
+
 ### POF  
 
-The chamber Pressure and Oxidizer/Fuel ratio (POF) static fire tests measured the chamber pressure and calculated the O/F ratio of the CSSI TM-1B hybrid rocket motor at various oxygen output presures. [Discussion of attempt 1 (partial failure)](https://docs.google.com/document/d/1JxKmvcccYgxyxHkK9EasYi_KEzsKsH341RCrCXNK6sM/edit?usp=sharing). [Discussion of attempt 2 (success)](https://docs.google.com/document/d/1pSjYV32JNg4e_6B872bw9FPtDAv1ZokLH8WyMMPRr_g/edit?usp=sharing).
-
-### TM-1C
-<html>
-  <head> </head>
-  
-  <body>
-    <video width="640" height="360" controls autoplay loop muted>
-      <source src="https://github.com/zhdavidlu/pb/blob/master/tm-1c_animation.mp4" type="video/mp4">
-    </video>
-  </body>
- </html>
+The chamber Pressure and Oxidizer/Fuel ratio (POF) static fire tests measured the chamber pressure and calculated the O/F ratio of the CSSI TM-1B hybrid rocket motor at various oxygen output presures. [Reflection of attempt #1 (partial failure)](https://docs.google.com/document/d/1JxKmvcccYgxyxHkK9EasYi_KEzsKsH341RCrCXNK6sM/edit?usp=sharing). [Reflection of attempt #2 (success)](https://docs.google.com/document/d/1pSjYV32JNg4e_6B872bw9FPtDAv1ZokLH8WyMMPRr_g/edit?usp=sharing).  
+Report: 
