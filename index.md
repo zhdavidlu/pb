@@ -9,5 +9,6 @@ Design Process:
 
 ### POF  
 
-The chamber Pressure and Oxidizer/Fuel ratio (POF) static fire tests measured the chamber pressure and calculated the O/F ratio of the CSSI TM-1B hybrid rocket motor at various oxygen output presures. [Reflection: attempt #1 (partial failure)](https://docs.google.com/document/d/1JxKmvcccYgxyxHkK9EasYi_KEzsKsH341RCrCXNK6sM/edit?usp=sharing). [Reflection: attempt #2 (success)](https://docs.google.com/document/d/1pSjYV32JNg4e_6B872bw9FPtDAv1ZokLH8WyMMPRr_g/edit?usp=sharing).  
-Report: 
+The chamber Pressure and Oxidizer/Fuel ratio (POF) static fire tests measured the chamber pressure and calculated the O/F ratio of the CSSI TM-1B hybrid rocket motor at various oxygen output presures. 
+Reflections: [attempt #1 (partial failure)](https://docs.google.com/document/d/1JxKmvcccYgxyxHkK9EasYi_KEzsKsH341RCrCXNK6sM/edit?usp=sharing), [attempt #2 (success)](https://docs.google.com/document/d/1pSjYV32JNg4e_6B872bw9FPtDAv1ZokLH8WyMMPRr_g/edit?usp=sharing). 
+Report: [POF Experiment](https://drive.google.com/file/d/1Z3UMOGBQwIWX7DnesUIaTkSYeCmGiE9f/view?usp=sharing).
